@@ -1,7 +1,7 @@
 # Introduction
 Hello im Avexy this is the stuff i made for roblox most all files are obfuscated / protected.
 
-# Proetection / Obfuscation
+# Protection / Obfuscation
 Promtheues is some what decent for obfuscation but still can be reversed so i'll be switching to luarmor soon.
 
 # Credits
