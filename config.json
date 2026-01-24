@@ -1,1 +1,5 @@
-
+{
+  "sdk_urls": [
+    "https://vortexvscripts.vercel.app/api/lua/SDK",
+  ]
+}
