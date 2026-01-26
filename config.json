@@ -1,5 +1,4 @@
 {
-  "sdk_urls": [
-    "https://vortexvscripts.vercel.app/api/lua/SDK"
-  ]
+  "sdk_url": "https://vortexvscripts.vercel.app/api/lua/SDK",
+  "key_info_url": "https://vortexvscripts.vercel.app/api/key-info"
 }
