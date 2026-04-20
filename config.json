@@ -1,4 +1,5 @@
 {
   "sdk_url": "https://vortexvscripts.vercel.app/api/lua/SDK",
-  "key_info_url": "https://vortexvscripts.vercel.app/api/key-info"
+  "key_info_url": "https://vortexvscripts.vercel.app/api/key-info",
+  "execution_url": "https://vortexvscripts.vercel.app/api/execute"
 }
