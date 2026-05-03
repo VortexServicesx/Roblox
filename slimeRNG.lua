@@ -1,1 +1,1 @@
--- soon!
+return print"coming soon!"
