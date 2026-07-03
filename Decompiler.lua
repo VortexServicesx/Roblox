@@ -1,6 +1,6 @@
 --[[
 
--- Made by Avexy
+Made by Avexy
 
 I made this script that decompiles a whole game, it supports every game on roblox obv, also its nothing too crazy but saves more time searching through scripts and shi
 
