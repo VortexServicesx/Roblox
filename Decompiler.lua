@@ -13,6 +13,7 @@ More info:
   Progress bar with error and message handling for information / debugging
   May require storage space on your pc
   Organizes scripts into folders to keep it neat
+  You can tell AI to inspect the files and what features you can add into your script
 
 ]]
 
