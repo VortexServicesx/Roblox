@@ -2,7 +2,7 @@
 Hello im Avexy this is the stuff i made for roblox most all files are obfuscated / protected.
 
 # Protection / Obfuscation
-We used to use Prometheus as obfuscation but now i swithced to MoonVeil, ill switch to luraph soon or ill build my own custom private VM obfuscation.
+We used to use Prometheus as obfuscation but now i swithced to MoonVeil, ill switch to luraph soon.
 
 # Credits
 Make sure to credit me for the use of the scripts when uploading to youtube, tiktok, etc
