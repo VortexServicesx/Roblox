@@ -1,6 +1,6 @@
 --[[
 
-Made by Avexy
+Made by Avexy a fast and easy-to-use Roblox game decompiler
 
 ]]
 
