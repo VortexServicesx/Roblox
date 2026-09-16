@@ -9,7 +9,7 @@ Because of this, development and updates for these projects may be slower or dis
 I'm currently spending more of my time learning and working on other projects.
 
 # Protection / Obfuscation
-We used to use Prometheus as obfuscation but now i swithced to MoonVeil, ill switch to luraph soon.
+I previously used Prometheus for obfuscation, but I've since switched to MoonVeil. I may switch to Luraph in the future.
 
 # Credits
 Make sure to credit me for the use of the scripts when uploading to youtube, tiktok, etc
