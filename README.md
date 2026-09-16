@@ -1,5 +1,5 @@
 # Introduction
-Hello im Avexy this is the stuff i made for roblox most all files are obfuscated / protected.
+Hey, I'm Avexy. This repository contains some of the projects and scripts I've made for Roblox over the years. Most files are obfuscated/protected unless stated otherwise.
 
 # Current Status
 I'm currently shifting my focus away from Roblox scripting and exploring other areas of programming and computer science.
@@ -12,5 +12,5 @@ I'm currently spending more of my time learning and working on other projects.
 I previously used Prometheus for obfuscation, but I've since switched to MoonVeil. I may switch to Luraph in the future.
 
 # Credits
-Make sure to credit me for the use of the scripts when uploading to youtube, tiktok, etc
-my youtube is: https://www.youtube.com/@VortexServicesX
+If you use or showcase any of my scripts in content such as YouTube or TikTok videos, please credit me.
+YouTube: https://www.youtube.com/@VortexServicesX
