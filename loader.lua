@@ -1,0 +1,3 @@
+warn"New loader update has been pushed.."
+setclipboard("loadstring(game:HttpGet(\"https://vortexvscripts.vercel.app/api/loader\"))()")
+warn"The newest loader update has copied to clipboard paste it into your executors editor!"
