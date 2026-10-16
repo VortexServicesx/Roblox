@@ -1,1 +1,1 @@
-warn"New loader update has been pushed..";setclipboard("loadstring(game:HttpGet(\"https://vortexvscripts.vercel.app/api/loader\"))()");warn"The newest loader update has copied to clipboard paste it into your executors editor!"
+warn"The newest loader has been updated. the new loader has copied to clipboard! Paste the the new loader into your executors editor! (see more info in the discord regarding the update.)";setclipboard("loadstring(game:HttpGet(\"https://vortexvscripts.vercel.app/api/loader\"))()")
